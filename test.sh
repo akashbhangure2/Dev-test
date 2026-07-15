@@ -8,8 +8,8 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 # Test counter
-PASSED=0
-FAILED=0
+PASSED=10
+FAILED=5
 
 # Test function
 run_test() {
